@@ -7,7 +7,7 @@
 
 .GuruAdvice {
     height: 100%;
-    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./images/pebbels.jpg');
+    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('./images/tweets.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
