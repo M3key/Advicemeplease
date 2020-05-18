@@ -34,7 +34,7 @@ render() {
             Advice me please!
           </span>
         </button>
-        <button className="button" id="tweetquote" onClick={event =>  window.location.href='https://twitter.com/intent/tweet?hashtags=&related=freecodecamp&text=' + encodeURIComponent('"' + advice)}>Thanks I should Tweet this!</button>
+        <button className="Tweetbutton" id="tweetquote" onClick={event =>  window.location.href='https://twitter.com/intent/tweet?hashtags=&related=freecodecamp&text=' + encodeURIComponent('"' + advice)}>Thanks I should Tweet this!</button>
       </div>
     </div>
 
